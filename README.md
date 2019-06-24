@@ -1,0 +1,2 @@
+# myPublicConfigRepository
+for class
